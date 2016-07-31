@@ -6,7 +6,9 @@
 	<classpathentry kind="lib" path="D:/lib/commons-logging.jar"/>
 	<classpathentry kind="lib" path="D:/lib/commons-beanutils.jar"/>
 	<classpathentry kind="lib" path="D:/lib/commons-collections.jar"/>
-	<classpathentry kind="lib" path="D:/lib/commons-lang3-3.3.2.jar"/>
 	<classpathentry kind="lib" path="D:/lib/ezmorph-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/lib/junit-4.2.jar"/>
+	<classpathentry kind="lib" path="D:/lib/commons-lang.jar"/>
+	<classpathentry kind="lib" path="D:/lib/commons-collections-3.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
